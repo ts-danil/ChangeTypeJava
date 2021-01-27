@@ -1,3 +1,6 @@
+/*
+Вычислить код символа в кодировке ASCII
+ */
 package com.company;
 import java.util.Scanner;
 
