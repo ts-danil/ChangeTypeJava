@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ChangeType.iml" filepath="$PROJECT_DIR$/ChangeType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharCode.iml" filepath="$PROJECT_DIR$/CharCode.iml" />
     </modules>
   </component>
 </project>
